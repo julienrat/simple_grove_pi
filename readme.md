@@ -10,4 +10,4 @@ Les fichiers sources sont compatibles EAGLE avec la librairie Open Parts Library
 Licence GNU GPL
 
 
-[![PCB](https://raw.github.com/julienrat/simple_grove_pi/master/PCB1.png)](#features) 
+[![PCB](https://raw.github.com/julienrat/simple_grove_pi/master/PCB.png)](#features) 
